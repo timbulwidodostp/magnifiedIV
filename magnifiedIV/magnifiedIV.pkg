@@ -1,5 +1,15 @@
-d 'DEA': Data envelopment analysis
+d 'magnifiedIV': magnifiedIV to run a group or weight-based magnified instrumental variables estimator Use magnifiedIV With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f factorpull.ado
+f factorpull.sthlp
+f groupcf.ado
+f groupcf.sthlp
+f groupcfsetup.ado
+f groupcfsetup.sthlp
+f groupsearch.ado
+f groupsearch.sthlp
+f magnifiedIV.xlsx
+f magnifiediv.ado
+f magnifiediv.sthlp
+f ownpersonalssesus.ado
+f ownpersonalssesus.sthlp
