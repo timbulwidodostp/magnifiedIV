@@ -3,6 +3,8 @@ magnifiedIV to run a group or weight-based magnified instrumental variables esti
 
 A STATA package for running Magnified IV/SLATE estimation Use magnifiedIV
 
+https://www.youtube.com/watch?v=GWLP3O_R-y0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
